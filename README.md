@@ -20,13 +20,13 @@ Contra el imperio de la ignorancia
 __TODO__
 
 ## Isotipo
-__TODO__
+![ppcl-isotipo](https://raw.githubusercontent.com/kehugter/ppcl-imagen/master/files/isotipo.png)
 
 ## Imagotipo
-__TODO__
+![ppcl-imagotipo](https://raw.githubusercontent.com/kehugter/ppcl-imagen/master/files/imagotipo.png)
 
 ## Isologo
-__TODO__
+![ppcl-isologo](https://raw.githubusercontent.com/kehugter/ppcl-imagen/master/files/isologo.png)
 
 # Proponer cambios/mejoras
 
