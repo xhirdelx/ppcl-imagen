@@ -31,3 +31,5 @@ __TODO__
 # Proponer cambios/mejoras
 
 __TODO__
+
+# Agregada carpeta Propaganda para trabajar material más en concreto.
