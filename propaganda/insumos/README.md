@@ -7,7 +7,7 @@ acá van a ir los insumos a usar para intentar generar algo de material.
 ![isotipo-rojo](https://raw.githubusercontent.com/xhirdelx/ppcl-imagen/master/propaganda/insumos/isotipo.1.png)
 # Isotipo Azul
 ![isotipo-azul](https://raw.githubusercontent.com/xhirdelx/ppcl-imagen/master/propaganda/insumos/isotipo.2.png)
-#Isotipo Inverso
+# Isotipo Inverso
 ![isotipo-azul](https://raw.githubusercontent.com/xhirdelx/ppcl-imagen/master/propaganda/insumos/isotipo.3.png)
 
 ## Imagotipo
