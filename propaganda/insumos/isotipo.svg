@@ -24,7 +24,7 @@
      id="metadata42"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -37,8 +37,8 @@
      id="namedview40"
      showgrid="false"
      inkscape:zoom="0.71595647"
-     inkscape:cx="82.424791"
-     inkscape:cy="266.93105"
+     inkscape:cx="86.086955"
+     inkscape:cy="261.34412"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -197,7 +197,7 @@
      width="460.5097" /><ellipse
      transform="matrix(0.99687463,0,0,1.0060972,-0.3270211,1.6494868)"
      id="path2939"
-     style="display:inline;fill:#0055d4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      cx="230.97673"
      cy="229.9424"
      rx="230.97673"
@@ -212,13 +212,13 @@
      id="path2943"
      d="m 119.51937,114.39346 c 24.267,-7.07 126.586,6.86 105.678,105.837 -7.609,36.019 -49.357,53.566 -69.592,68.72 -47.901,35.873 -6.648,121.071 -6.648,121.071 0,0 -22.318,-66.267 27.382,-97.619 45.727,-28.846 203.373,-15.293 202.831,-104.266 -1.039,-170.464999 -266.661,-108.969999 -259.651,-93.743 z"
      inkscape:connector-curvature="0"
-     style="fill:#0055d4" /><rect
+     style="fill:#ffffff" /><rect
      id="rect2945"
      height="250.63"
      width="20.208"
      y="65.640465"
      x="139.91936"
-     style="fill:#0055d4" /><path
+     style="fill:#ffffff" /><path
      transform="matrix(0.540316,0,0,0.543946,148.48037,111.52521)"
      d="m 319.99999,203 -48.08344,-16.9287 -41.20469,30.01284 1.24155,-50.96132 -41.27686,-29.91351 48.85076,-14.56713 15.69418,-48.50041 28.94988,41.95834 50.9764,-0.0614 -30.95875,40.49881 z"
      inkscape:randomized="0"
@@ -232,5 +232,5 @@
      sodipodi:cx="266.35153"
      sodipodi:sides="5"
      id="path2947"
-     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     style="fill:#000000;fill-opacity:1;stroke:none"
      sodipodi:type="star" /></svg>
