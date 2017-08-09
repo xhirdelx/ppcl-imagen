@@ -2,17 +2,17 @@ acá van a ir los insumos a usar para intentar generar algo de material.
 
 # los logos
 ## Isotipo
-![isotipo](https://raw.githubusercontent.com/xhirdelx/ppcl-imagen/master/files/propaganda/insumos/isotipo.png)
+![isotipo](https://raw.githubusercontent.com/xhirdelx/ppcl-imagen/master/propaganda/insumos/isotipo.png)
 # Isotipo Rojo
-![isotipo-rojo](https://raw.githubusercontent.com/xhirdelx/ppcl-imagen/master/files/propaganda/insumos/isotipo.1.png)
+![isotipo-rojo](https://raw.githubusercontent.com/xhirdelx/ppcl-imagen/master/propaganda/insumos/isotipo.1.png)
 # Isotipo Azul
-![isotipo-azul](https://raw.githubusercontent.com/xhirdelx/ppcl-imagen/master/files/propaganda/insumos/isotipo.2.png)
+![isotipo-azul](https://raw.githubusercontent.com/xhirdelx/ppcl-imagen/master/propaganda/insumos/isotipo.2.png)
 #Isotipo Inverso
-![isotipo-azul](https://raw.githubusercontent.com/xhirdelx/ppcl-imagen/master/files/propaganda/insumos/isotipo.3.png)
+![isotipo-azul](https://raw.githubusercontent.com/xhirdelx/ppcl-imagen/master/propaganda/insumos/isotipo.3.png)
 
 ## Imagotipo
-![ppcl-imagotipo](https://raw.githubusercontent.com/xhirdelx/ppcl-imagen/master/files/propaganda/insumos/imagotipo.png)
+![ppcl-imagotipo](https://raw.githubusercontent.com/xhirdelx/ppcl-imagen/master/propaganda/insumos/imagotipo.png)
 
 ## Isologo
-![ppcl-isologo](https://raw.githubusercontent.com/xhirdelx/ppcl-imagen/master/files/propaganda/insumos/isologo.png)
+![ppcl-isologo](https://raw.githubusercontent.com/xhirdelx/ppcl-imagen/master/propaganda/insumos/isologo.png)
 
