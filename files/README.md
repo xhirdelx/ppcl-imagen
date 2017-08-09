@@ -33,6 +33,6 @@ __TODO__
 __TODO__
 
 # Se agregan imagenes en azul y rojo con fondo negro para alto contraste
-![ppcl-isotipo-1](ttps://raw.githubusercontent.com/xhirdelx/ppcl-imagen/master/files/isotipo.1.png)
-![ppcl-isotipo-2](ttps://raw.githubusercontent.com/xhirdelx/ppcl-imagen/master/files/isotipo.2.png)
+![ppcl-isotipo-1](https://raw.githubusercontent.com/xhirdelx/ppcl-imagen/master/files/isotipo.1.png)
+![ppcl-isotipo-2](https://raw.githubusercontent.com/xhirdelx/ppcl-imagen/master/files/isotipo.2.png)
 
