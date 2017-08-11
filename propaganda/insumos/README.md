@@ -19,5 +19,5 @@ acá van a ir los insumos a usar para intentar generar algo de material.
 __
 # notas
 
-* __los archivos .ora se abren con mypaint, es opensourse y funciona como un lienzo de dibujo digital__
+* __los archivos .ora se abren con mypaint, es opensource y funciona como un lienzo de dibujo digital__
 
