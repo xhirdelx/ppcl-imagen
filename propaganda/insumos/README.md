@@ -16,3 +16,8 @@ acá van a ir los insumos a usar para intentar generar algo de material.
 ## Isologo
 ![ppcl-isologo](https://raw.githubusercontent.com/xhirdelx/ppcl-imagen/master/propaganda/insumos/isologo.png)
 
+__
+# notas
+
+* __los archivos .ora se abren con mypaint, es opensourse y funciona como un lienzo de dibujo digital__
+
